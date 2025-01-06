@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\ndebe_91p\\source\\repos\\LibrarySystemApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{93361700-7EAC-41C5-BEE8-EF1682ABDD1D}|LibrarySystemApp\\LibrarySystemApp.csproj|c:\\users\\ndebe_91p\\source\\repos\\librarysystemapp\\librarysystemapp\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93361700-7EAC-41C5-BEE8-EF1682ABDD1D}|LibrarySystemApp\\LibrarySystemApp.csproj|solutionrelative:librarysystemapp\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{93361700-7EAC-41C5-BEE8-EF1682ABDD1D}|LibrarySystemApp\\LibrarySystemApp.csproj|c:\\users\\ndebe_91p\\source\\repos\\librarysystemapp\\librarysystemapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93361700-7EAC-41C5-BEE8-EF1682ABDD1D}|LibrarySystemApp\\LibrarySystemApp.csproj|solutionrelative:librarysystemapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93361700-7EAC-41C5-BEE8-EF1682ABDD1D}|LibrarySystemApp\\LibrarySystemApp.csproj|c:\\users\\ndebe_91p\\source\\repos\\librarysystemapp\\librarysystemapp\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93361700-7EAC-41C5-BEE8-EF1682ABDD1D}|LibrarySystemApp\\LibrarySystemApp.csproj|solutionrelative:librarysystemapp\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{93361700-7EAC-41C5-BEE8-EF1682ABDD1D}|LibrarySystemApp\\LibrarySystemApp.csproj|c:\\users\\ndebe_91p\\source\\repos\\librarysystemapp\\librarysystemapp\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93361700-7EAC-41C5-BEE8-EF1682ABDD1D}|LibrarySystemApp\\LibrarySystemApp.csproj|solutionrelative:librarysystemapp\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{93361700-7EAC-41C5-BEE8-EF1682ABDD1D}|LibrarySystemApp\\LibrarySystemApp.csproj|c:\\users\\ndebe_91p\\source\\repos\\librarysystemapp\\librarysystemapp\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{93361700-7EAC-41C5-BEE8-EF1682ABDD1D}|LibrarySystemApp\\LibrarySystemApp.csproj|solutionrelative:librarysystemapp\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93361700-7EAC-41C5-BEE8-EF1682ABDD1D}|LibrarySystemApp\\LibrarySystemApp.csproj|c:\\users\\ndebe_91p\\source\\repos\\librarysystemapp\\librarysystemapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93361700-7EAC-41C5-BEE8-EF1682ABDD1D}|LibrarySystemApp\\LibrarySystemApp.csproj|solutionrelative:librarysystemapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{93361700-7EAC-41C5-BEE8-EF1682ABDD1D}|LibrarySystemApp\\LibrarySystemApp.csproj|c:\\users\\ndebe_91p\\source\\repos\\librarysystemapp\\librarysystemapp\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93361700-7EAC-41C5-BEE8-EF1682ABDD1D}|LibrarySystemApp\\LibrarySystemApp.csproj|solutionrelative:librarysystemapp\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,33 +26,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Library.cs",
               "DocumentMoniker": "C:\\Users\\ndebe_91p\\source\\repos\\LibrarySystemApp\\LibrarySystemApp\\Library.cs",
               "RelativeDocumentMoniker": "LibrarySystemApp\\Library.cs",
               "ToolTip": "C:\\Users\\ndebe_91p\\source\\repos\\LibrarySystemApp\\LibrarySystemApp\\Library.cs",
               "RelativeToolTip": "LibrarySystemApp\\Library.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwFQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-03T06:46:38.352Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Author.cs",
               "DocumentMoniker": "C:\\Users\\ndebe_91p\\source\\repos\\LibrarySystemApp\\LibrarySystemApp\\Author.cs",
               "RelativeDocumentMoniker": "LibrarySystemApp\\Author.cs",
               "ToolTip": "C:\\Users\\ndebe_91p\\source\\repos\\LibrarySystemApp\\LibrarySystemApp\\Author.cs",
               "RelativeToolTip": "LibrarySystemApp\\Author.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T06:45:34.576Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-03T06:45:34.576Z"
             },
             {
               "$type": "Document",
@@ -62,27 +65,23 @@
               "RelativeDocumentMoniker": "LibrarySystemApp\\Book.cs",
               "ToolTip": "C:\\Users\\ndebe_91p\\source\\repos\\LibrarySystemApp\\LibrarySystemApp\\Book.cs",
               "RelativeToolTip": "LibrarySystemApp\\Book.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-03T06:44:16.653Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ndebe_91p\\source\\repos\\LibrarySystemApp\\LibrarySystemApp\\Program.cs",
               "RelativeDocumentMoniker": "LibrarySystemApp\\Program.cs",
               "ToolTip": "C:\\Users\\ndebe_91p\\source\\repos\\LibrarySystemApp\\LibrarySystemApp\\Program.cs",
               "RelativeToolTip": "LibrarySystemApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAD8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-03T06:30:37.346Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

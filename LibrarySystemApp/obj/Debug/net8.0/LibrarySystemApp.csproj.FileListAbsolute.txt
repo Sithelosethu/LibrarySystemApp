@@ -12,3 +12,4 @@ C:\Users\ndebe_91p\source\repos\LibrarySystemApp\LibrarySystemApp\obj\Debug\net8
 C:\Users\ndebe_91p\source\repos\LibrarySystemApp\LibrarySystemApp\obj\Debug\net8.0\LibrarySystemApp.pdb
 C:\Users\ndebe_91p\source\repos\LibrarySystemApp\LibrarySystemApp\obj\Debug\net8.0\LibrarySystemApp.genruntimeconfig.cache
 C:\Users\ndebe_91p\source\repos\LibrarySystemApp\LibrarySystemApp\obj\Debug\net8.0\ref\LibrarySystemApp.dll
+C:\Users\ndebe_91p\source\repos\LibrarySystemApp\LibrarySystemApp\obj\Debug\net8.0\LibrarySystemApp.sourcelink.json
